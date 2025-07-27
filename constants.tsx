@@ -241,9 +241,9 @@ export const PROJECTS_DATA: Project[] = [
     title: "E-Commerce Platform",
     description:
       "A full-featured e-commerce website with product listings, shopping cart, and a secure checkout process.",
-    image: "https://github.com/Garvit1904/Celebal_Technologies_Garvit/raw/main/Assignment7/E-Com/1.png",
+    image: "https://github.com/Garvit1904/Celebal_Technologies_Garvit/raw/main/Assignment8/Modern-e-commerce/Screenshots/1.png",
     techStack: ["React", "Redux", "Firebase"],
-    githubUrl: "https://github.com/Garvit1904/Celebal_Technologies_Garvit/tree/main/Assignment8",
+    githubUrl: "https://github.com/Garvit1904/Celebal_Technologies_Garvit/tree/main/Assignment8/Modern-e-commerce",
   },
   {
     title: "Ola Booking Analysis",
